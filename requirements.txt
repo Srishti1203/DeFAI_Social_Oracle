@@ -1,0 +1,8 @@
+tweepy
+praw
+discord
+transformers
+scikit-learn
+pandas
+web3
+python-dotenv
