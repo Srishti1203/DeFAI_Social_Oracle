@@ -1,4 +1,4 @@
-# market_prediction.py
+# market_prediction
 from sklearn.linear_model import LinearRegression
 import pandas as pd
 
