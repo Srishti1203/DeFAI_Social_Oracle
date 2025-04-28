@@ -1,6 +1,5 @@
-# blockchain_actions.py
+# blockchain_actions
 from web3 import Web3
-
 # Connect to Sonic blockchain
 sonic_rpc_url = "https://sonic-blockchain-rpc.com"
 web3 = Web3(Web3.HTTPProvider(sonic_rpc_url))
